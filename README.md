@@ -1,2 +1,2 @@
 ## ClickHere To View
-##### Searching Algorithms:- 
+##### Searching Algorithms:- https://ramya-brs.github.io/Searching-Algo/
